@@ -13,5 +13,5 @@ Released under the CC0 1.0 Universal ("public domain") licence.
 References
 ----------
 
-[1]: "An overview of gradient descent optimization algorithms", Sebasian Ruder, URL: [http://ruder.io/optimizing-gradient-descent/] (retrieved Nov 19th, 2017)
+[1]: "An overview of gradient descent optimization algorithms", Sebasian Ruder, URL: http://ruder.io/optimizing-gradient-descent/ (retrieved Nov 19th, 2017)  
 [2]: Sebastian Ruder (2016). An overview of gradient descent optimisation algorithms. arXiv preprint [arXiv:1609.04747](https://arxiv.org/abs/1609.04747)
